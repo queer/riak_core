@@ -12,6 +12,11 @@ there’s an old but still valuable
 [blog post on the Basho Blog](http://basho.com/where-to-start-with-riak-core/)
 that’s well worth your time.
 
+## plz note
+
+This was forked to patch a few smol things to get it running on OTP 20.
+May / not work with upstream. 
+
 ## Contributing
 
 We love community code, bug fixes, and other forms of contribution. We
